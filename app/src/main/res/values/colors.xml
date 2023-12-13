@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF0C</color>
+    <color name="purple">#EC00FF</color>
+    <color name="orange">#FF6800</color>
+
+
+
+    <array name="fibonacci_colors">
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>@color/red</item>
+        <item>@color/green</item>
+        <item>@color/purple</item>
+        <item>@color/orange</item>
+        <item>@color/blue</item>
+    </array>
+
+</resources>
